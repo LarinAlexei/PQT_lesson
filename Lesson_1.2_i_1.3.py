@@ -101,3 +101,5 @@ def host_range_ping_tab(results_dict):
 
 # Проверка результата
 print(host_range_ping_tab(host_range_ping()))
+
+
